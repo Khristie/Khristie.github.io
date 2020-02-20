@@ -1,0 +1,46 @@
+body {
+    margin:15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 5rem;
+    line-height: none;
+    color: #000000;
+    text-align: center;
+    background-color: #8FD8D8;
+    
+}
+img {
+    border-style: none;
+    padding: 5px;
+    border-radius: 20px;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: normal;
+    font-size: 40px;
+    line-height: none;
+    color: #000000;
+}
+h2 {
+font-family:  Georgia, 'Times New Roman', Times, serif;
+letter-spacing: normal;
+font-size: 40px;
+line-height: none;
+color:  #000000;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: none;
+    font-size: 40px;
+    line-height: none;
+    color: #000000;
+}
+
+.primary-footer {
+    color: #648880;
+    font-size: 30px;
+    padding-bottom: 44px;
+    padding-top: 44px;
+  }
+  
